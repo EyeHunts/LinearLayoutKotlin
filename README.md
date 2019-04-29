@@ -1,3 +1,3 @@
 # LinearLayoutKotlin
 Android LinearLayout
-https://tutorial.eyehunt.in/android/android-linearlayout-tutorial-example-android-kotlin/
+https://tutorial.eyehunts.com/android/android-linearlayout-tutorial-example-android-kotlin/
